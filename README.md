@@ -5,10 +5,11 @@ Vous pouvez télécharger Feedbro sur :
   - https://nodetics.com/feedbro/
   - https://addons.mozilla.org/fr/firefox/addon/feedbroreader/
 
-Dans les paramètres de Feedbro, définissez le lien suivant pour passer l'interface utilisateur en allemand
+Dans les paramètres de Feedbro, définissez le lien suivant pour passer l'interface utilisateur en français
 
 Feedbro: Settings / Settings Page -> User interface language -> Import locale 
 
 https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json
 
-Puis délectioner French (fr_FR)
+Puis sélectioner : French (fr_FR)
+Pour mettre à jour sélectioner : Mise à jour de la Locale
