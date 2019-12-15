@@ -7,9 +7,9 @@ Vous pouvez télécharger Feedbro sur :
 
 Dans les paramètres de Feedbro, définissez le lien suivant pour passer l'interface utilisateur en français
 
-Feedbro: Settings / Settings Page -> User interface language -> Import locale 
+Dans Feedbro : sélectionner l'icône "Settings", puis dans Settings Page, en face de "User interface language" cliquez sur "Import locale" et entréez dans la case "URL address of the Feedbro Locale (JSON-file)" l'URL suivante : 
 
 https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json
 
-Puis sélectioner : French (fr_FR)
-Pour mettre à jour sélectioner : Mise à jour de la Locale
+  - Puis sélectionner : French (fr_FR)
+  - Pour mettre à jour sélectionner: Mise à jour de la Locale
