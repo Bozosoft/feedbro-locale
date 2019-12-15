@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.1",
+        "locale_version": "1.2",
         "locale_name": "French",
         "locale_type": "fr_FR",
         "locale_last_updated": "2019-12-15 18:54:00 UTC",
@@ -109,7 +109,7 @@
     "eventform_article_content_body": "Contenu de l'article",
     "eventform_matchedrules_body": "Règles appariées",
     "eventform_close_body": "Fermer",
-    "eventform_test_body": "Règles du test",
+    "eventform_test_body": "Tester les règles",
     "feedfinder_close_title": "Fermer le panneau",
     "feedfinder_searchfield_placeholder": "Recherche par chaîne  site web ou hashtag",
     "feedfinder_search_value": "Rechercher",
@@ -269,7 +269,7 @@
     "options_article_bodyfontsize_select_title": "Taille relative du texte du corps de l'article par rapport au réglage par défaut",
     "options_article_bodylineheight_body": "Hauteur de la ligne du corps de l'article",
     "options_article_bodylineheight_select_title": "Hauteur de ligne dans le texte par rapport à la taille de la police",
-    "options_article_font_body": "Famille de polices d'article",
+    "options_article_font_body": "Famille de polices pour l'article",
     "options_article_width_body": "Largeur de l'article",
     "options_article_width_default_body": "manquement",
     "options_article_width_view1_body": "Vue 1 ",
@@ -322,7 +322,7 @@
     "options_tagshortcuts_body": "Raccourcis de balises",
     "options_tagshortcuts_title": "En appuyant sur la combinaison de touches vous pouvez rapidement ajouter la balise spécifiée à l'article de flux actif (avec bordure bleue). ",
     "options_removetags_body": "Supprimer les balises des entrées de flux",
-    "options_disableautoscan_body": "Désactiver l'analyse automatique de l'alimentation",
+    "options_disableautoscan_body": "Désactiver l'analyse automatique du scan",
     "options_disableautoscan_title": "Si c'est le cas les flux ne sont pas automatiquement scannés à la recherche de nouveaux articles. Seules les mises à jour manuelles sont possibles ",
     "options_disableautoselect_body": "Ne pas ouvrir le premier article en mode de visualisation 3 ou 6",
     "options_disableautoselect_title": "Si c'est le cas le premier article n'est pas automatiquement sélectionné en mode d'affichage 3 ou 6. ",
@@ -494,7 +494,7 @@
     "statsview_table_rowclick_title": "Cliquez pour lire les entrées",
     "statsview_table_days": "jours",
     "statsview_table_default": "manquement",
-    "statsview_button_deleteselected": "Supprimer Sélectionné",
+    "statsview_button_deleteselected": "Supprimer la sélection",
     "statsview_button_unselectall": "Désélectionner tout",
     "statsview_confirm_delete": "Êtes-vous sûr de vouloir supprimer les flux {1} sélectionnés ?",
     "showarticles_nomatches": "Aucun élément ne correspond aux paramètres actuels du filtre",
@@ -542,6 +542,6 @@
     "toolbar_help_title": "Page d'aide Feedbro",
     "toolbar_options_title": "Ouvrir la page Feedbro Options/Réglages",
     "toolbar_reload_title": "Recharger le flux ou le dossier sélectionné dans la base de données locale (pas la source du flux) - Raccourci 'r'.",
-    "toolbar_prev_title": "Poste précédent - Raccourci 'k' ou 'p'.",
-    "toolbar_next_title": "Point suivant - Raccourci ‘j’ ou ‘n’."
+    "toolbar_prev_title": "Élément précédent - Raccourci 'k' ou 'p'.",
+    "toolbar_next_title": "Élément suivant - Raccourci ‘j’ ou ‘n’."
 }
