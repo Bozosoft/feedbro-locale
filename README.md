@@ -9,6 +9,6 @@ Dans les paramètres de Feedbro, définissez le lien suivant pour passer l'inter
 
 Feedbro: Settings / Settings Page -> User interface language -> Import locale 
 
-https://github.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json
+https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json
 
 Puis délectioner French (fr_FR)
