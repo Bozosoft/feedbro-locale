@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.7",
+        "locale_version": "1.8",
         "locale_name": "French",
         "locale_type": "fr_FR",
-        "locale_last_updated": "2019-12-17 17:45:00 UTC",
+        "locale_last_updated": "2019-12-17 18:48:00 UTC",
         "locale_author_name": "BozoSoft",
         "locale_author_email": "jc.etiemble_nospam@free.fr.invalid",
         "locale_source_url": "https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json"
