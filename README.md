@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-
   - puis sélectionner l'icône "Settings", puis dans "Settings Page", en face de "User interface language" cliquez sur "Import locale" et entrez dans la case "URL address of the Feedbro Locale (JSON-file)" l'URL copiée: 
   - Puis sélectionner : French (fr_FR) et validez.
   - Pour mettre à jour sélectionner: Mise à jour de la Locale.
+
+
+#### [Me contacter](http://jc.etiemble.free.fr/ "Site Web perso")
