@@ -13,5 +13,10 @@ https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-
   - Puis sélectionner : French (fr_FR) et validez.
   - Pour mettre à jour sélectionner: Mise à jour de la Locale.
 
+### Changelog
+* 17/12/2019 - Version initiale 1.10
+* 18/07/2020 - Version 1.11 (Corection ligne 354 et 355 manquantes)
+
+
 
 #### [Me contacter](http://jc.etiemble.free.fr/ "Site Web perso")
